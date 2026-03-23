@@ -1,31 +1,25 @@
 # Cold Email System
 
-Automated cold outreach with A/B testing, domain health monitoring, and template engine
+**Automated cold outreach with A/B testing, domain health monitoring, and template engine**
 
-## Overview
+## Tech Stack
 
-Part of the PRINTMAXX autonomous revenue system — extracted as a standalone project.
+python
 
-## Highlights
+## Key Points
 
 - A/B tested cold email system with domain health monitoring
 - Template engine for personalized outreach at scale
 - Deliverability optimization built in
 
-## Tech Stack
+## Files
 
-- **python**
+- `cold_email_sender.py` (13KB)
+- `cold_email_ab_test.py` (14KB)
+- `cold_email_2026.py` (18KB)
 
-## Tags
+## Part of Printmaxx (Meta Business System)
 
-`email`, `cold-outreach`, `sales`, `automation`, `ab-testing`
+This is a subsystem of [Printmaxx](https://github.com/fnsmdehip/printmaxx-starter-kit), a 27GB autonomous revenue operating system with 33 agents, 394 scripts, and 5,277 scored revenue methods.
 
-## Project History
-
-- **Active Period:** March 2025 — March 2026
-- **Parent System:** [PRINTMAXX Starter Kit](https://github.com/fnsmdehip/printmaxx-starter-kit)
-- **Built with:** AI pair programming (Claude, Cursor)
-
----
-
-*Part of [DEVPRINT](https://github.com/fnsmdehip/devprint) — 40+ projects built through AI-native development*
+[Full Portfolio](https://devprint-portfolio.surge.sh) | [System Architecture](https://builders-portfolio.surge.sh)
